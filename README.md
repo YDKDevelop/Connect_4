@@ -12,6 +12,12 @@ A regular connect 4  game without AI.
     Would you like to load a game (y/n)? n
     Please enter the desired number of rows for the board: 6
     Please enter the desired number of columns for the board: 7
+    _______
+    _______
+    _______
+    _______
+    _______
+    _______
     
 ```
 ### Requirements
