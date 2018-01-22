@@ -18,6 +18,6 @@ A regular connect 4  game without AI.
 Python 3
 
 ### Features
-Saving the game
-Two Players
+Saving the game <br>
+Two Players <br>
 Choosing your own columns and rows
