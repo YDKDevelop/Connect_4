@@ -16,3 +16,8 @@ A regular connect 4  game without AI.
 ```
 ### Requirements
 Python 3
+
+### Features
+Saving the game
+Two Players
+Choosing your own columns and rows
